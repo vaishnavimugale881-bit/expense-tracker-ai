@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 
 import Login from "./pages/Auth/Login";
-import Signup from "./pages/Auth/Signup";
+import Signup from "./pages/Auth/SignUp";
 import Home from "./pages/Dashboard/Home";
 import Income from "./pages/Dashboard/Income";
 import Expense from "./pages/Dashboard/Expense";
